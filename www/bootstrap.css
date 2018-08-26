@@ -1,0 +1,31 @@
+body {
+
+  background: url("imgpaper.jpg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  font-family: "Century";
+  opacity: 1;
+}
+
+
+
+table {
+  background: #DAA520;
+}
+
+h3 {
+  font-family: "Times New Roman";
+  font-weight: bold;
+}
+
+.well:hover {
+  opacity: 1.5;
+  transition-delay: 0;
+}
+
+.well {
+  opacity: 2;
+  transition-delay: 0;
+}
